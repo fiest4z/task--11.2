@@ -11,4 +11,3 @@ def first_big_letter():
     '''
     user_string = input().title()
     return user_string
-print(first_big_letter())
